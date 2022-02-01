@@ -1,2 +1,3 @@
 theme: jekyll-theme-minimal
 title: Deep linking testing
+include: [".well-known"]
