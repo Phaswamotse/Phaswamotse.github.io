@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.oldmutual.myoldmutual.ci",
-    "sha256_cert_fingerprints":
-    ["F9:4F:5F:C0:0A:90:85:20:D9:BD:6A:28:7D:94:93:0E:43:FB:28:39:02:F2:D0:A4:29:B7:84:2F:88:9B:23:54"]
-  }
-}]
